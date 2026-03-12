@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root{
+ --vnl-dark:#0B1F3A;
+ --vnl-blue:#1F5FAF;
+ --vnl-light:#3B82F6;
+}
+
+body{
+ font-family:system-ui, sans-serif;
+ background:#ffffff;
+ scroll-behavior:smooth;
+}
